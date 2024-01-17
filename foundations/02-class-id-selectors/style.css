@@ -1,0 +1,19 @@
+.ungleich {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  .size {
+    font-size: 24px;
+  }
+  
+  #zweites-element {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  
+  #viertes-element {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+  }
+  
