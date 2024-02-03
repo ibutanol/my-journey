@@ -29,6 +29,13 @@ img {
 .container {
   display: flex;
   align-items: center;
-  margin: 32px ;
-  padding: 52px ;
+  margin: 52px ;
+  padding: 32px ;
+  justify-content: space-between;
+
+}
+.content {
+  width: 200px;
+  text-align: center;
+
 }
